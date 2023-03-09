@@ -1,0 +1,43 @@
+body{
+
+
+    padding: 0;
+    margin: 0;
+
+    height: 100vh;
+    width: 100vw;
+
+    /* background-color: green; */
+
+    display: flex;
+    flex-direction: row;
+    /*justify-content: center;
+    align-items: center;*/
+}
+
+#arriba{
+    display: flex;
+
+    background-color:aquamarine ;
+    width: 120em;
+    height: 10em;
+
+}
+
+#centro{
+
+    display: flex;
+    
+    background-color: yellow;
+    width: 100em;
+    height: 20em;
+}
+
+#abajo{
+
+    display: flex;
+
+    background-color: rebeccapurple;
+    width: 100em;
+    height: 20em;
+}
